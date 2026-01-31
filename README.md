@@ -35,7 +35,7 @@
 - Data Structures & Algorithms  
 - Full-Stack Web Development
 
----
+--
 
 ## 📫 Connect With Me
 - GitHub: [github.com/mdtalhafarooqui](https://github.com/mdtalhafarooqui)
