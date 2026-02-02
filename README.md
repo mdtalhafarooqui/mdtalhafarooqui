@@ -4,7 +4,7 @@
 
 **Software Developer | Creative Architect | Tech Enthusiast**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;UI/UX+Designer;Problem+Solver;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;UI/UX+Designer;Problem+Solver;Building+the+Future)](https://git.io/typing-svg)
 
 ---
 
@@ -23,8 +23,6 @@
 
 ---
 
-### 📈 My GitHub Stats
-
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdtalhafarooqui&show_icons=true&theme=rose_pine&icon_color=ff0000&text_color=ffffff&title_color=ff0000&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtalhafarooqui&layout=compact&theme=rose_pine&icon_color=ff0000&text_color=ffffff&title_color=ff0000&hide_border=true" />
@@ -38,9 +36,9 @@
 
 ### 🤝 Connect with Me
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://instagram.com/YOUR_INSTA"><img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mdtalhafarooqui/"><img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mohammedtalhafarooqui@gmail.com"><img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/mdtalhafarooqui/"><img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 </div>
