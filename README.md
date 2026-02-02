@@ -23,21 +23,14 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=mdtalhafarooqui&show_icons=true&theme=dark&icon_color=ff0000&text_color=ffffff&title_color=ff0000&hide_border=true" alt="Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtalhafarooqui&layout=compact&theme=dark&icon_color=ff0000&text_color=ffffff&title_color=ff0000&hide_border=true" alt="Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/streak-stats/?user=mdtalhafarooqui&theme=dark&fire=ff0000&ring=ff0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" alt="Streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdtalhafarooqui&show_icons=true&theme=dark&icon_color=ff0000&text_color=ffffff&title_color=ff0000&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdtalhafarooqui&layout=compact&theme=dark&icon_color=ff0000&text_color=ffffff&title_color=ff0000&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdtalhafarooqui&theme=dark&fire=ff0000&ring=ff0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="97%" />
+</p>
 
 ---
 
