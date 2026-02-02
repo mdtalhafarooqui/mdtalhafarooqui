@@ -43,9 +43,9 @@
 
 ### 🤝 Connect with Me
 <p align="center">
-<a href="https://www.linkedin.com/in/mdtalhafarooqui/"><img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mohammedtalhafarooqui@gmail.com?subject=Hello%20Talha!"><img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.instagram.com/mdtalhafarooqui/"><img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mdtalhafarooqui/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohammedtalhafarooqui@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/mdtalhafarooqui/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 </div>
