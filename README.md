@@ -23,14 +23,21 @@
 
 ---
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdtalhafarooqui&show_icons=true&theme=dark&icon_color=ff0000&text_color=ffffff&title_color=ff0000&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdtalhafarooqui&layout=compact&theme=dark&icon_color=ff0000&text_color=ffffff&title_color=ff0000&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdtalhafarooqui&theme=dark&fire=ff0000&ring=ff0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="97%" />
-</p>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdtalhafarooqui&show_icons=true&theme=dark&icon_color=ff0000&text_color=ffffff&title_color=ff0000&hide_border=true" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdtalhafarooqui&layout=compact&theme=dark&icon_color=ff0000&text_color=ffffff&title_color=ff0000&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/streak-stats/?user=mdtalhafarooqui&theme=dark&fire=ff0000&ring=ff0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
