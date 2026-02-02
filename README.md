@@ -1,47 +1,46 @@
 <div align="center">
 
-# <span style="color: #ff0000; font-family: 'Brush Script MT', cursive;">𝓣𝓪𝓵𝓱𝓪 𝓕𝓪𝓻𝓸𝓸𝓺𝓾𝓲</span>
+# <span style="color: #FF0000; font-family: cursive; font-size: 3em;">𝓜𝓭 𝓣𝓪𝓵𝓱𝓪 𝓕𝓪𝓻𝓸𝓸𝓺𝓾𝓲</span>
 
-**Software Craftsman | Visual Thinker | Full-Stack Explorer**
+**Software Developer | Creative Architect | Tech Enthusiast**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Building+scalable+web+applications;Designing+seamless+user+experiences;Turning+ideas+into+reality+with+code)](https://git.io/typing-svg)
-
----
-
-### 💫 About Me
-I am a passionate developer who believes that code is a form of art. While others just build features, I focus on crafting experiences that are both functional and aesthetically pleasing.
-
-* 🔭 **Current Mission:** Mastering the art of Full-Stack Architecture.
-* 🚀 **Philosophy:** Clean code, modular design, and constant iteration.
-* 🤝 **Collaboration:** Open to innovative projects and creative brainstorms.
-* 📫 **Reach out:** [Your Email/LinkedIn Link]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;UI/UX+Designer;Problem+Solver;Open+Source+Contributor)](https://git.io/typing-svg)
 
 ---
 
-### 🛠️ The Tech Arsenal
+### 🖋️ About Me
+> I am a developer who blends logic with design. Based on my journey at **mdtalhafarooqui**, I focus on building robust applications with a clean, red-hot aesthetic. Passionate about performance, scalability, and beautiful interfaces.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Frontend-EF4444?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-991B1B?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-DC2626?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design-7F1D1D?style=for-the-badge&logo=figma&logoColor=white" />
+---
+
+### 🚀 Tech Stack & Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,java,cpp&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,firebase&theme=dark" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+### 📈 My GitHub Stats
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdtalhafarooqui&show_icons=true&theme=blood&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtalhafarooqui&layout=compact&theme=blood&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdtalhafarooqui&show_icons=true&theme=rose_pine&icon_color=ff0000&text_color=ffffff&title_color=ff0000&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtalhafarooqui&layout=compact&theme=rose_pine&icon_color=ff0000&text_color=ffffff&title_color=ff0000&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdtalhafarooqui&theme=blood&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdtalhafarooqui&theme=rose_pine&fire=ff0000&ring=ff0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </p>
 
 ---
 
-### ⚡ Fun Fact
-> "The best way to predict the future is to invent it."
+### 🤝 Connect with Me
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/YOUR_INSTA"><img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 </div>
