@@ -1,6 +1,6 @@
 <div align="center">
 
-# <span style="color: #FF0000; font-family: cursive; font-size: 3em;">𝓜𝓭 𝓣𝓪𝓵𝓱𝓪 𝓕𝓪𝓻𝓸𝓸𝓺𝓾𝓲</span>
+# <span style="color: #FF0000; font-family: cursive; font-size: 3em;">𝓜𝓸𝓱𝓪𝓶𝓶𝓮𝓭 𝓣𝓪𝓵𝓱𝓪 𝓕𝓪𝓻𝓸𝓸𝓺𝓾𝓲</span>
 
 **Software Developer | Creative Architect | Tech Enthusiast**
 
@@ -23,14 +23,21 @@
 
 ---
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=mdtalhafarooqui&show_icons=true&theme=rose_pine&icon_color=ff0000&text_color=ffffff&title_color=ff0000&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdtalhafarooqui&layout=compact&theme=rose_pine&icon_color=ff0000&text_color=ffffff&title_color=ff0000&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdtalhafarooqui&theme=rose_pine&fire=ff0000&ring=ff0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=mdtalhafarooqui&show_icons=true&theme=dark&icon_color=ff0000&text_color=ffffff&title_color=ff0000&hide_border=true" alt="Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtalhafarooqui&layout=compact&theme=dark&icon_color=ff0000&text_color=ffffff&title_color=ff0000&hide_border=true" alt="Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/streak-stats/?user=mdtalhafarooqui&theme=dark&fire=ff0000&ring=ff0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" alt="Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
