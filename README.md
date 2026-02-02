@@ -1,46 +1,47 @@
-# Hi, I'm Mohammed Talha Farooqui 👋
+<div align="center">
 
-🎓 B.Tech IT Student  
-💻 Aspiring Software & Web Developer  
-🚀 Passionate about learning, building, and improving every day  
+# <span style="color: #ff0000; font-family: 'Brush Script MT', cursive;">𝓣𝓪𝓵𝓱𝓪 𝓕𝓪𝓻𝓸𝓸𝓺𝓾𝓲</span>
 
----
+**Software Craftsman | Visual Thinker | Full-Stack Explorer**
 
-## 👨‍💻 About Me
-- Currently pursuing **B.Tech in Information Technology**
-- Interested in **Web Development, Software Development, and Problem Solving**
-- Love working on real-world projects and improving my coding skills
-- Actively learning new technologies and best practices
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Building+scalable+web+applications;Designing+seamless+user+experiences;Turning+ideas+into+reality+with+code)](https://git.io/typing-svg)
 
 ---
 
-## 🛠️ Skills & Technologies
-- **Languages:** Java, Python, C  
-- **Web:** HTML, CSS, JavaScript  
-- **Databases:** MySQL  
-- **Tools:** Git, GitHub, VS Code  
-- **Concepts:** OOP, DBMS, OS, Networking
+### 💫 About Me
+I am a passionate developer who believes that code is a form of art. While others just build features, I focus on crafting experiences that are both functional and aesthetically pleasing.
+
+* 🔭 **Current Mission:** Mastering the art of Full-Stack Architecture.
+* 🚀 **Philosophy:** Clean code, modular design, and constant iteration.
+* 🤝 **Collaboration:** Open to innovative projects and creative brainstorms.
+* 📫 **Reach out:** [Your Email/LinkedIn Link]
 
 ---
 
-## 📂 Projects
-- **ClinicPro** – Clinic management system  
-- **Slotify** – Smart parking slot management system  
-- More projects coming soon 🚧
+### 🛠️ The Tech Arsenal
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Frontend-EF4444?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-991B1B?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-DC2626?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design-7F1D1D?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 ---
 
-## 🌱 Currently Learning
-- Advanced Java & Backend Development  
-- Data Structures & Algorithms  
-- Full-Stack Web Development
+### 📊 GitHub Analytics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdtalhafarooqui&show_icons=true&theme=blood&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtalhafarooqui&layout=compact&theme=blood&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdtalhafarooqui&theme=blood&hide_border=true" />
+</p>
 
 ---
 
-## 📫 Connect With Me
-- GitHub: [github.com/mdtalhafarooqui](https://github.com/mdtalhafarooqui)
-- LinkedIn: [linkedin.com/in/mdtalhafarooqui](https://www.linkedin.com/in/mdtalhafarooqui)
+### ⚡ Fun Fact
+> "The best way to predict the future is to invent it."
 
----
-
-⭐ *“Consistency beats motivation.”*
+</div>
