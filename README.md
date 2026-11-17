@@ -25,13 +25,15 @@
 
 ### <span style="color: #FF0000;">📊 My GitHub Stats</span>
 
+### 📊 My GitHub Stats
+
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdtalhafarooqui&show_icons=true&theme=dark&icon_color=ff0000&text_color=ffffff&title_color=ff0000&hide_border=true" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=mdtalhafarooqui&show_icons=true&theme=dark&icon_color=ff0000&text_color=ffffff&title_color=ff0000&hide_border=true" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdtalhafarooqui&layout=compact&theme=dark&icon_color=ff0000&text_color=ffffff&title_color=ff0000&hide_border=true" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtalhafarooqui&layout=compact&theme=dark&text_color=ffffff&title_color=ff0000&hide_border=true" width="100%" />
     </td>
   </tr>
   <tr>
